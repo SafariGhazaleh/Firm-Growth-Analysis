@@ -1,4 +1,5 @@
 # Firm-Growth-Analysis
+The following assignment script is part of the coursework completed in the lecture "Computational Economics $I$" at TU Chemnitz, presented by Prof. Dr. Heinrich. Comments within the script acknowledge the course context, and where applicable, specify instances where the code is developed based on provided course materials.
 
 ## Problem Statement
 This assignment explores the conjectured firm growth process using the Kesten process, where firm growth is modeled by the equation $x_{t+1} = \alpha_t x_t + \beta_t$. 
